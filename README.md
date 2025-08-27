@@ -165,4 +165,8 @@ Ruden, L. (2025). Ivory Shea Butter | Raw Unrefined Shea Butter – 100% Pure & 
 
 Hawken, M. (2020). Lionesses of Africa. [online] Lionesses of Africa. Available at: https://www.lionessesofafrica.com/blog/2020/4/12/lioness-launch-mozambiques-black-khakhela-launches-new-natural-hair-and-skin-care-range  [Accessed 26 Aug. 2025].
 
-wikiHow. (n.d.). 4 Ways to Run a HTML File in Visual Studio Code. [online] Available at: https://www.wikihow.com/Run-a-HTML-File-in-Visual-Studio-Code. 
+Bing.net. (2025). Available at: https://tse2.mm.bing.net/th/id/OIP.pMWYNZuf-p7XDGTYNxmOjwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3  [Accessed 27 Aug. 2025].
+
+Googleusercontent.com. (2024). Available at: https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM. 
+
+Vecteezy.com. (2022). Available at: https://static.vecteezy.com/system/resources/previews/013/901/773/original/facebook-icon-ios-facebook-social-media-logo-on-white-background-free-free-vector.jpg
