@@ -136,6 +136,9 @@ To provide effective, nourishing, and eco-friendly skincare products made from t
 
 As an international student from Mozambique, this project means a lot to me. Through the MozaGlow Botanicals website, I want to share the natural beauty of my country ,the ingredients we use, the stories they carry, and the care rooted in our traditions. It’s also a way to proudly represent Mozambique, blending heritage and innovation into a digital experience that feels warm, authentic, and welcoming.
 
+## Part 1 Details
+Building the basis of a project using HTML is the task for Part 1, which entails planning through research, target audience definition, goal formulation, and the creation of a thorough project plan.  Project planning is essential because it makes it possible to create a well-structured, thoroughly researched project, which guarantees a more seamless workflow.
+
 ## References
 
 REFERENCES
