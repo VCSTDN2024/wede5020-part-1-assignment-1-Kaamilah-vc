@@ -139,11 +139,17 @@ As an international student from Mozambique, this project means a lot to me. Thr
 ## Part 1 Details
 Building the basis of a project using HTML is the task for Part 1, which entails planning through research, target audience definition, goal formulation, and the creation of a thorough project plan.  Project planning is essential because it makes it possible to create a well-structured, thoroughly researched project, which guarantees a more seamless workflow.
 
-HTML implemented on the website working for all pages
+**HTML implemented on the website working for all pages**
+
+**Homepage**
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/102e5b67-1c25-4751-8f3e-4f27c36fe841" />
+**About Us**
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/729a69de-b237-4378-ab68-85f4ee748821" />
+**Products** 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6d1aba37-15e3-44e3-8a5d-6c39ba83ca00" />
+**Enquiry**
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e64f7883-48e2-4716-a079-594c593192b8" />
+**Contact**
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/029bd1ad-9efc-4044-8d8b-b1ccf9927416" />
 
 
