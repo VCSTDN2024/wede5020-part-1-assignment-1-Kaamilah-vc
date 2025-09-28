@@ -1,0 +1,335 @@
+/* --- General Reset --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.8; 
+    background-color: #fdf6f0; /* soft cream */
+    color: #3a3a3a; /* gentle dark grey */
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none; /* remove bullets */
+}
+
+/* --- Header & Navigation --- */
+header {
+    background-color: #fff9f2; /* warm cream */
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1); 
+    padding: 1rem 2.5rem; 
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+nav .logoimg {
+    border-radius: 50%;
+    border: 2px solid #a67c52; 
+    width: 70px; 
+    height: 70px;
+}
+
+nav .logo h1 {
+    color: #6b8e23; /* green */
+    font-size: 2rem; 
+}
+
+nav ul {
+    display: flex;
+    gap: 1.5rem; 
+}
+
+nav ul li a {
+    padding: 0.7rem 1.2rem; 
+    border-radius: 6px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+nav ul li a:hover,
+nav ul li a:focus {
+    background-color: #a67c52;
+    color: #fff;
+}
+
+/* --- Container --- */
+.container {
+    width: 95%;
+    max-width: 1400px;
+    margin: 3rem auto; 
+}
+
+/* --- Hero Section --- */
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5rem 1.5rem; 
+    background-color: #e3f0db; /* light green */
+    border-radius: 8px;
+}
+
+.hero-content h1 {
+    font-size: 3rem; 
+    margin-bottom: 1.2rem;
+    color: #4a5d23;
+}
+
+.hero-content p {
+    font-size: 1.3rem; 
+    margin-bottom: 2.5rem;
+}
+
+.hero-content .btn {
+    background-color: #a67c52;
+    color: #fff;
+    padding: 1rem 2.5rem; 
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.hero-content .btn:hover {
+    background-color: #925f3d;
+    transform: translateY(-3px);
+}
+
+/* --- About Section --- */
+.about-section {
+    background-color: #fff9f2;
+    padding: 3rem; 
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.07);
+}
+
+.about-section h1,
+.about-section h2 {
+    color: #6b8e23;
+    margin-bottom: 1.2rem;
+    font-size: 1.8rem;
+}
+
+.about-section p {
+    margin-bottom: 1.2rem;
+    font-size: 1.15rem;
+    text-align: justify;
+}
+
+/* --- Products Section --- */
+.products-section h1,
+.products-section h2 {
+    color: #6b8e23;
+    margin-bottom: 1.2rem;
+    font-size: 1.8rem;
+}
+
+.product-grid {
+    display: grid;
+    gap: 2rem; /* bigger spacing */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+}
+
+.product-card {
+    background-color: #fff9f2;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 5px 12px rgba(0,0,0,0.15);
+}
+
+.product-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 0.8rem;
+}
+
+.product-card h3 {
+    margin: 0.6rem 0;
+    font-size: 1.3rem;
+    color: #4a5d23;
+}
+
+.product-card p {
+    margin-bottom: 0.6rem;
+    font-size: 1.05rem;
+}
+
+.product-card p b {
+    color: #a67c52;
+}
+
+/* --- Contact Section --- */
+.contact-section h1,
+.contact-section h2 {
+    color: #6b8e23;
+    margin-bottom: 1.2rem;
+    font-size: 1.8rem;
+}
+
+.contact-grid {
+    display: grid;
+    gap: 2.5rem; 
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.contact-info p {
+    margin-bottom: 0.6rem;
+    font-size: 1.1rem;
+}
+
+.social-media a img {
+    margin-right: 0.6rem;
+    transition: transform 0.2s ease;
+}
+
+.social-media a img:hover {
+    transform: scale(1.2);
+}
+
+.map-container iframe {
+    width: 100%;
+    border-radius: 8px;
+    height: 400px; 
+}
+
+/* --- Enquiry Form --- */
+.enquiry-section {
+    background-color: #fff9f2;
+    padding: 3rem; 
+    border-radius: 8px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.07);
+}
+
+.enquiry-section h1 {
+    color: #6b8e23;
+    margin-bottom: 1.2rem;
+    font-size: 1.8rem;
+}
+
+.enquiry-section p {
+    margin-bottom: 2rem;
+    font-size: 1.15rem;
+}
+
+.enquiry-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.enquiry-form label {
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+    font-size: 1.1rem;
+}
+
+.enquiry-form input,
+.enquiry-form textarea {
+    padding: 0.9rem 1.2rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1.1rem;
+}
+
+.enquiry-form input:focus,
+.enquiry-form textarea:focus {
+    border-color: #6b8e23;
+    box-shadow: 0 0 8px rgba(107,142,35,0.3);
+    outline: none;
+}
+
+.enquiry-form button.btn {
+    background-color: #a67c52;
+    color: #fff;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.enquiry-form button.btn:hover {
+    background-color: #925f3d;
+    transform: translateY(-3px);
+}
+
+/* --- Footer --- */
+footer {
+    background-color: #6b8e23;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0; /* bigger footer */
+    margin-top: 3rem;
+    font-size: 1.05rem;
+}
+
+/* --- Responsive Styles --- */
+@media (max-width: 1024px) {
+    nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5rem;
+    }
+
+    .hero-content p {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        gap: 1.2rem;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 0.7rem;
+        align-items: center;
+    }
+
+    .product-grid,
+    .contact-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-section {
+        padding: 4rem 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-content h1 {
+        font-size: 2rem;
+    }
+
+    .hero-content p {
+        font-size: 1rem;
+    }
+}
