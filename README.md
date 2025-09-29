@@ -178,25 +178,25 @@ In Part 2, I took the basic HTML pages and gave them style and personality using
 
 
 ## Changelog Part 1 to Part 2
-### 1. Unified the Styling  
+**1. Unified the Styling**  
 I connected all pages to a single style.css file to create a consistent and polished look across the site.
 
-### 2. Enhanced Text Presentation  
+ **2. Enhanced Text Presentation**  
 Font sizes, spacing, and colors were refined to reflect MozaGlow’s clean, natural aesthetic.
 
-### 3. Structured the Layout  
+**3. Structured the Layout**  
 Using Flexbox and Grid, I organized each section with better alignment and breathing room. 
 
-### 4. Applied Brand Colours & Effects  
+**4. Applied Brand Colours & Effects**  
 I introduced MozaGlow’s earthy palette  soft greens, creams, and terracotta and added hover effects to buttons and links for a more interactive experience.
 
-### 5. Made It Responsive  
+ **5. Made It Responsive**  
 The site now adapts smoothly to desktop, tablet, and mobile screens. I used media queries to ensure the layout adjusts naturally across devices.
 
-### 6. Optimized the Images  
+**6. Optimized the Images**  
 Images were resized and refined to load faster and display cleanly, without distortion. This helps the visuals support the brand story without slowing things down.
 
-### 7. Tested Across Devices  
+**7. Tested Across Devices** 
 I used browser developer tools to preview the site on multiple screen sizes.
 
 
