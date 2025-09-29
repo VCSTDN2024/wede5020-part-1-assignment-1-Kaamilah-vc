@@ -181,7 +181,9 @@ In Part 2, I took the basic HTML pages and gave them style and personality using
 From my feedback from Part 1, I reviewed and corrected all my comments to ensure clarity and consistency. For the proposal, I added new references and verified that all my content is correct and well-structured.  
 I also ensured that all my pages open in separate tabs.
 
-**For the CSS:**
+**For the CSS uptades from Part 2:**
+
+
 •	**Unified the Styling:**  
 I connected all pages to a single style.css file to create a consistent and polished look across the site.
 
