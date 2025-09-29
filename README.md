@@ -234,3 +234,8 @@ Bing.net. (2025). Available at: https://tse2.mm.bing.net/th/id/OIP.pMWYNZuf-p7XD
 Googleusercontent.com. (2024). Available at: https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM. 
 
 Vecteezy.com. (2022). Available at: https://static.vecteezy.com/system/resources/previews/013/901/773/original/facebook-icon-ios-facebook-social-media-logo-on-white-background-free-free-vector.jpg
+Convertico.com. (2025). Free CSS Color Scheme Editor | Edit CSS Colors Online. [online] Available at: https://convertico.com/css-color-editor/ [Accessed 29 Sep. 2025].
+
+freeCodeCamp.org. (2022). How to Link CSS to HTML – Stylesheet File Linking. [online] Available at: https://www.freecodecamp.org/news/how-to-link-css-to-html/.
+
+Youtu.be. (2025). Available at: https://youtu.be/Yvgtz8k9xto?si=ydnMqKP35wWZ1u5V [Accessed 29 Sep. 2025].
