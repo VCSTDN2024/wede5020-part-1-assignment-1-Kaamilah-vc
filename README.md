@@ -197,6 +197,7 @@ The site now adapts smoothly to desktop, tablet, and mobile screens. I used medi
 Images were resized and refined to load faster and display cleanly, without distortion. This helps the visuals support the brand story without slowing things down.
 
 **7. Tested Across Devices** 
+
 I used browser developer tools to preview the site on multiple screen sizes.
 
 
