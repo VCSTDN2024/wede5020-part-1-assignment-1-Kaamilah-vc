@@ -156,9 +156,25 @@ Building the basis of a project using HTML is the task for Part 1, which entails
 **Contact**
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/029bd1ad-9efc-4044-8d8b-b1ccf9927416" />
 
+## Part 2 Details
+n Part 2, I took the basic HTML pages and gave them style and personality using CSS. I linked one stylesheet to all the pages so everything looks consistent. I added colours, fonts, and layouts that match the natural theme of MozaGlow Botanicals. I also made the site responsive with media queries, so it works smoothly on desktop, tablet, and mobile. This part really brought the website to life and made it feel modern and user-friendly.
 
+**CSS implemented on the website working for all pages**
 
+**Homepage**
+<img width="1883" height="1004" alt="image" src="https://github.com/user-attachments/assets/2afcfb33-6335-402a-8f0a-440dddf78175" />
 
+**About Us**
+<img width="1880" height="1005" alt="image" src="https://github.com/user-attachments/assets/c23089a6-a014-4d6d-b7b3-32ceb85685e9" />
+
+**Products** 
+<img width="1855" height="1000" alt="image" src="https://github.com/user-attachments/assets/709142b8-af94-4a6c-bb6f-7a7d3fdf6e3f" />
+
+**Enquiry**
+<img width="1911" height="892" alt="image" src="https://github.com/user-attachments/assets/0208168d-13b9-440b-9934-f00ef6786504" />
+
+**Contact**
+<img width="1873" height="999" alt="image" src="https://github.com/user-attachments/assets/d7dd738f-37b3-4e56-9f35-f5f8029393dd" />
 
 ## References
 
