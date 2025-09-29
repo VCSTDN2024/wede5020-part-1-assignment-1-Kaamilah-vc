@@ -178,12 +178,10 @@ In Part 2, I took the basic HTML pages and gave them style and personality using
 
 
 ## Changelog Part 1 to Part 2
-# Proposal
-I’ve added new references to my proposal and carefully reviewed the content to make sure everything is clear, correct, and well-structured.
+From my feedback from Part 1, I reviewed and corrected all my comments to ensure clarity and consistency. For the proposal, I added new references and verified that all my content is correct and well-structured.  
+I also ensured that all my pages open in separate tabs.
 
-# Website
-•	**Comments**:I reviewed and corrected all my comments to ensure clarity and consistency.
-
+**For the CSS:**
 •	**Unified the Styling:**  
 I connected all pages to a single style.css file to create a consistent and polished look across the site.
 
