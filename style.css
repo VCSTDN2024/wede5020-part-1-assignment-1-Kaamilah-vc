@@ -1,3 +1,4 @@
+
 /* --- General Reset --- */
 * {
     margin: 0;
@@ -332,4 +333,23 @@ footer {
     .hero-content p {
         font-size: 1rem;
     }
+}
+.green-intro {
+  background-color: #e6f2e6; /* soft green */
+  padding: 2rem;
+  border-radius: 10px;
+  margin: 2rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.green-intro h1 {
+  color: #2e7d32; /* rich green */
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.green-intro p {
+  color: #4a4a4a;
+  font-size: 1.1rem;
+  line-height: 1.6;
 }

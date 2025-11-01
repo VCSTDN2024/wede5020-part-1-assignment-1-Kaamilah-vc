@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery | MozaGlow Botanicals</title>
+  <meta name="description" content="Discover the cultural roots of MozaGlow Botanicals' natural skincare ingredients from Mozambique." />
+  <meta name="keywords" content="Mozambican skincare, baobab, moringa, coconut, marula, natural beauty, gallery" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html"><img class="logoimg" src="Images/MozaGlow Botanicals Logo - Emblem, Nature-Inspired Design.jpg" alt="MozaGlow Botanicals Logo" /></a>
+      <div class="logo"><a class="a-header" href="#"><h1>MozaGlow Botanicals</h1></a></div>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Products</a></li>
+        <li><a href="enquiry.html">Enquiry</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="galery.html">Gallery</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container gallery-section">
+    <!-- Green-styled intro section -->
+    <section class="green-intro">
+      <h1>Ingredient History</h1>
+      <p>Every MozaGlow product carries the spirit of Mozambique  from the towering baobab trees of Inhambane to the sun-kissed marula groves of Gaza. These ingredients aren’t just natural; they’re cultural treasures, passed down through generations of wisdom, healing, and beauty.
+This gallery is a celebration of that heritage. It invites you to explore the stories behind our skincare  the rituals, the landscapes, and the people who inspire every drop, every blend, every glow.
+</p>
+    </section>
+
+    <div class="product-grid">
+      <!-- Baobab -->
+      <div class="product-card fade-in">
+        <img src="Images/Biobab - Mabuyu Juice.jpg" alt="Baobab Body Butter" />
+        <h3>Baobab Fruit</h3>
+        <p>Known locally as “the tree of life,” baobab is rich in vitamins A, D, E, and F. Mozambican women use its pulp and oil to soften skin and heal sun damage.</p>
+      </div>
+
+      <!-- Moringa -->
+      <div class="product-card fade-in">
+        <img src="Images/Why moringa is the ultimate nutrient powerhouse.jpg" alt="Moringa Oil" />
+        <h3>Moringa Leaves & Oil</h3>
+        <p>Used in rural communities to treat inflammation and nourish dry skin, moringa is a powerful antioxidant with deep cultural roots in northern Mozambique.</p>
+      </div>
+
+      <!-- Coconut -->
+      <div class="product-card fade-in">
+        <img src="Images/L'Huile de Coco, L'Élixir Pour Votre Peau ✨.jpg" alt="Coconut Body Butter" />
+        <h3>Coconut Oil</h3>
+        <p>Harvested along the coast, coconut oil is a staple in Mozambican households — used for cooking, hair care, and moisturizing rituals passed down through generations.</p>
+      </div>
+
+      <!-- Marula -->
+      <div class="product-card fade-in">
+        <img src="Images/Amarula Fruit Shoot - Sharleen Hollick.jpg" alt="Marula Scrub" />
+        <h3>Marula Fruit</h3>
+        <p>In Shangaan communities, marula is both food and medicine. Its oil is prized for its silky texture and ability to protect skin during dry seasons.</p>
+      </div>
+
+      <!-- Honey -->
+      <div class="product-card fade-in">
+        <img src="Images/Honey.jpg" alt="Honey Scrub" />
+        <h3>Wild Honey</h3>
+        <p>Collected from forest hives, wild honey is used in traditional healing and skin rituals. It’s naturally antibacterial and deeply hydrating.</p>
+      </div>
+
+      <!-- White Clay -->
+      <div class="product-card fade-in">
+        <img src="Images/Kaolin Clay Benefits for Skin_ How to Use, Where to Buy + DIY Recipes!.jpg" alt="White Clay Scrub" />
+        <h3>Kaolin Clay</h3>
+        <p>Used in Maputo and rural baths, white clay gently purifies the skin. It’s a mineral-rich exfoliant that soothes irritation and balances oil.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 MozaGlow Botanicals. All Rights Reserved.</p>
+  </footer>
+
+  <!-- Staggered animation -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const cards = document.querySelectorAll(".product-card");
+      cards.forEach((card, i) => {
+        card.style.animationDelay = `${i * 0.1}s`;
+      });
+    });
+  </script>
+</body>
+</html>
