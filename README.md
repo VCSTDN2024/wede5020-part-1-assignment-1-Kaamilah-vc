@@ -237,13 +237,13 @@ Images were resized and refined to load faster and display cleanly, without dist
 I used browser developer tools to preview the site on multiple screen sizes.
 
 ## Changelog Part 2 to Part 3
-From my feedback from Part 2, I made sure to check all the updated comments and apply comprehensive changes across my site. I ensured the changelog is detailed and well-documented, and that pseudo-classes were used effectively to style interactive elements and enhance user experience.
+From my feedback from Part 2, I made sure to check all the updated comments and apply comprehensive changes across my site. I ensured the changelog is detailed and well-documented, and that pseudo-classes were used effectively to style interactive elements and enhance user experience. And I also added new references. 
 
 **For the final updates from Part 3:**
 
 •   **Enhanced Interactivity**
 
-To make the site feel more dynamic and intuitive, I added JavaScript features like a working search filter for product cards and tab switching for product categories. I also introduced collapsible sections and smooth transitions to create a more engaging experience for users.
+To make the site feel more dynamic and intuitive, I added JavaScript features like a working search filter for product cards and tab switching for product categories. I also introduced collapsible sections and smooth transitions to create a more engaging experience for users. 
 
 
 •   **Validated Forms**
@@ -264,7 +264,15 @@ I made sure to use pseudo-classes like :hover, :focus, and :active throughout th
 I added meta tags for description and keywords, structured content with heading tags, and optimized image filenames and alt attributes. I created a clean URL structure, added internal links between pages, and built both robots.txt and sitemap.xml files to help search engines understand and index the site more effectively.
 
 •   **Optimized Performance**
+
 I resized and compressed images to improve loading speed without compromising quality. I tested the site across multiple screen sizes using browser developer tools, making sure it looks and feels consistent on desktop, tablet, and mobile.
+
+•  **Added Social Media Integration**
+
+I included real social media links (TikTok, Instagram, Facebook) in the contact section and footer. These icons are styled with hover effects and open in new tabs, helping users connect with MozaGlow across platforms while keeping the browsing experience smooth and professional.
+
+
+
 
 
 
@@ -272,7 +280,7 @@ I resized and compressed images to improve loading speed without compromising qu
 
 ## References
 
-REFERENCES
+
 Ayling, L. (2021). 10 Natural African Skincare Ingredients. [online] Formula Botanica. Available at: https://formulabotanica.com/natural-african-skincare-ingredients/.
 
 Goodtrade.co.mz. (2025b). (no title). [online] Available at: https://goodtrade.co.mz/en/who-are-we/  [Accessed 24 Aug. 2025].
@@ -309,3 +317,20 @@ Convertico.com. (2025). Free CSS Color Scheme Editor | Edit CSS Colors Online. [
 freeCodeCamp.org. (2022). How to Link CSS to HTML – Stylesheet File Linking. [online] Available at: https://www.freecodecamp.org/news/how-to-link-css-to-html/.
 
 Youtu.be. (2025). Available at: https://youtu.be/Yvgtz8k9xto?si=ydnMqKP35wWZ1u5V [Accessed 29 Sep. 2025].
+
+Boucher, J. (2025). Honey Close Up Photo. [online] Pinterest. Available at: https://pin.it/1bP7BVpxx [Accessed 2 Nov. 2025].
+
+Ditto Nikolashvili (2025). L’Huile de Coco, L’Élixir Pour Votre Peau ✨. [online] Pinterest. Available at: https://pin.it/1NQ78UHpo [Accessed 2 Nov. 2025].
+
+Google Developers. (n.d.). Build and Submit a Sitemap | Google Search Central | Documentation. [online] Available at: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap.Pin.it. (2025a).
+
+Page Restricted. [online] Available at: https://pin.it/6NRXApMXZ [Accessed 2 Nov. 2025].Pin.it.
+
+(2025b). Welcome To Zscaler Directory Authentication. [online] Available at: https://pin.it/6M4Z4OVDC [Accessed 2 Nov. 2025].
+
+Roma, B. (2021). Kaolin Clay Benefits for Skin: How to Use, Where to Buy + DIY Recipes! [online] Pinterest. Available at: https://pin.it/30RfwWNaa [Accessed 2 Nov. 2025].
+
+Schneider, V. (2018). Amarula Fruit Shoot - Sharleen Hollick. [online] Pinterest. Available at: https://pin.it/9K1PKyCqt [Accessed 2 Nov. 2025].W3Schools (2019). 
+
+JavaScript Tutorial. [online] W3schools.com. Available at: https://www.w3schools.com/Js/.
+
