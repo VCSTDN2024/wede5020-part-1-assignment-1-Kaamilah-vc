@@ -205,6 +205,38 @@ Images were resized and refined to load faster and display cleanly, without dist
 •	**Tested Across Devices:** 
 I used browser developer tools to preview the site on multiple screen sizes.
 
+## Changelog Part 2 to Part 3
+From my feedback from Part 2, I made sure to check all the updated comments and apply comprehensive changes across my site. I ensured the changelog is detailed and well-documented, and that pseudo-classes were used effectively to style interactive elements and enhance user experience.
+
+**For the final updates from Part 3:**
+
+•   **Enhanced Interactivity**
+
+To make the site feel more dynamic and intuitive, I added JavaScript features like a working search filter for product cards and tab switching for product categories. I also introduced collapsible sections and smooth transitions to create a more engaging experience for users.
+
+
+•   **Validated Forms**
+
+I refined both contact.html and enquiry.html with JavaScript validation to guide users and ensure all required fields are completed. I used HTML5 attributes and client-side checks, and added AJAX submission via Formspree to improve speed and usability.
+
+
+•  **Integrated a Gallery Page**
+
+I designed and added a new gallery.html page to visually represent MozaGlow’s brand story. It includes responsive image cards, lightbox previews, and styling that matches the rest of the site’s earthy, elegant tone.
+
+•   **Applied Pseudo-Classes**
+
+I made sure to use pseudo-classes like :hover, :focus, and :active throughout the site to style buttons, links, tabs, and icons. These subtle effects help guide users and make interactions feel more responsive and polished.
+
+•   **Improved SEO**
+
+I added meta tags for description and keywords, structured content with heading tags, and optimized image filenames and alt attributes. I created a clean URL structure, added internal links between pages, and built both robots.txt and sitemap.xml files to help search engines understand and index the site more effectively.
+
+•   **Optimized Performance**
+I resized and compressed images to improve loading speed without compromising quality. I tested the site across multiple screen sizes using browser developer tools, making sure it looks and feels consistent on desktop, tablet, and mobile.
+
+
+
 
 
 ## References
