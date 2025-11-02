@@ -1,9 +1,5 @@
-
-
 document.addEventListener('DOMContentLoaded', () => {
-  // -------------------------------
   // Tab Switching for Product Categories
-  // -------------------------------
   const tabButtons = document.querySelectorAll('.tab-button');
   const categories = document.querySelectorAll('.product-category');
 
@@ -20,9 +16,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // -------------------------------
+ 
   // Search Filter (Scoped to Active Category)
-  // -------------------------------
+  
  const searchInput = document.getElementById('searchBar');
 if (searchInput) {
   searchInput.addEventListener('input', () => {
@@ -39,16 +35,13 @@ if (searchInput) {
     });
   }
 
-  // -------------------------------
   // Fancybox Lightbox for Product Images
-  // -------------------------------
   if (typeof Fancybox !== 'undefined') {
     Fancybox.bind("[data-fancybox]", {});
   }
 
-  // -------------------------------
   // Enquiry Form Validation + AJAX
-  // -------------------------------
+  
   const enquiryForm = document.getElementById('enquiry-form');
   if (enquiryForm) {
     enquiryForm.addEventListener('submit', (e) => {
@@ -92,9 +85,9 @@ if (searchInput) {
     });
   }
 
-  // -------------------------------
+ 
   // Contact Form Validation + AJAX
-  // -------------------------------
+  
   const contactForm = document.getElementById('contact-form');
   if (contactForm) {
     contactForm.addEventListener('submit', (e) => {
@@ -128,9 +121,9 @@ if (searchInput) {
     });
   }
 
-  // -------------------------------
+  
   // Leaflet Map Integration (Pretoria)
-  // -------------------------------
+  
   const mapElement = document.getElementById('map');
   if (mapElement) {
     const map = L.map('map').setView([-25.7479, 28.2293], 13); // Pretoria coordinates
