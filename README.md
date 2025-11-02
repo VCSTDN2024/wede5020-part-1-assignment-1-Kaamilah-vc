@@ -176,6 +176,37 @@ In Part 2, I took the basic HTML pages and gave them style and personality using
 **Contact**
 <img width="1873" height="999" alt="image" src="https://github.com/user-attachments/assets/d7dd738f-37b3-4e56-9f35-f5f8029393dd" />
 
+## Part 3 Details
+In Part 3, I focused on making the site more interactive and complete. I added JavaScript features like a search filter, tab switching, and collapsible sections to improve usability. I also created a new gallery page to visually showcase MozaGlow’s brand and added real social media links to the contact section and footer, making it easier for users to connect. Both forms now include validation and AJAX submission for a smoother experience. I improved SEO with meta tags, headings, and optimized images, and added robots.txt and sitemap.xml for indexing. These updates helped turn the site into a polished, user-friendly experience that’s ready for real users.
+
+**Functionality and SEO Features Implemented Across All Pages**
+**Homepage**
+<img width="1864" height="1031" alt="image" src="https://github.com/user-attachments/assets/96bf76f2-39e3-4048-87e0-c7f38b0e4733" />
+
+**About Us**
+<img width="1867" height="995" alt="image" src="https://github.com/user-attachments/assets/ef261782-b59b-41ba-9595-0767e0709def" />
+
+**Products** 
+<img width="1874" height="983" alt="image" src="https://github.com/user-attachments/assets/504cee6c-678b-410b-9805-07a8a167272e" />
+<img width="1785" height="919" alt="image" src="https://github.com/user-attachments/assets/b7f6dc51-0f39-4c73-bfa4-98719d5d1674" />
+
+
+**Enquiry**
+<img width="1854" height="1016" alt="image" src="https://github.com/user-attachments/assets/1250c39c-e476-4dbf-be9a-74354efc1e8c" />
+
+**Contact**
+<img width="1830" height="1011" alt="image" src="https://github.com/user-attachments/assets/40149194-82f5-4552-ab2c-e2f8033c7add" />
+<img width="1850" height="959" alt="image" src="https://github.com/user-attachments/assets/ebba4c86-d78e-418b-8906-087a5a6cce75" />
+
+
+**Gallery**
+<img width="1837" height="1016" alt="image" src="https://github.com/user-attachments/assets/145c350c-b09a-4629-8e05-e5bad6c4b7aa" />
+
+**Footer with copyright and social media links for all pages**
+<img width="1844" height="164" alt="image" src="https://github.com/user-attachments/assets/a973b964-9e0c-4627-aae9-f026b9ba8365" />
+
+
+
 
 ## Changelog Part 1 to Part 2
 From my feedback from Part 1, I reviewed and corrected all my comments to ensure clarity and consistency. For the proposal, I added new references and verified that all my content is correct and well-structured.  
